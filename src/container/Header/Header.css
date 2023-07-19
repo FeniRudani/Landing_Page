@@ -1,0 +1,19 @@
+/* .app__header{
+    
+    /* background-image: url("C:\Users\Admin\Desktop\landingpage\src\assets\bg3.jpeg");
+    background-size: cover; */
+/* } */ */
+
+.app__header-h1{
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    letter-spacing: 0.04rem;
+    text-transform: uppercase;
+    line-height: 70px;
+    font-size: 70px;
+    /* transition: ease-in; */
+} 
+
+.app__header-img img{
+    width: 80%;
+}
